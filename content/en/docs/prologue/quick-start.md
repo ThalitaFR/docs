@@ -94,8 +94,8 @@ C --> D
 ```
 ## Formulas matemáticas
 O markdown pode renderizar formulas matemáticas utilizando a extensão KateX, que são expressões matemáticas do fomato LateX. 
-
+```
 $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
-
+```
