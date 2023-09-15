@@ -3,12 +3,12 @@ title: "Sobre a professora 👋"
 description: "Introdução da professora thali."
 excerpt: "Breve descrição sobre mim."
 date: 2023-11-15T09:19:42+01:00
-lastmod: 2020-11-15T09:19:42+01:00
+lastmod: 2023-11-15T09:19:42+01:00
 draft: false
 weight: 50
 images: []
 categories: ["News"]
-tags: ["", "", "SEO"]
+tags: ["SEO"]
 contributors: ["Thalita Freire"]
 pinned: false
 homepage: false
