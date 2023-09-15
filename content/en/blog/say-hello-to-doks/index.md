@@ -2,14 +2,14 @@
 title: "Sobre a professora 👋"
 description: "Introdução da professora thali."
 excerpt: "Breve descrição sobre mim."
-date: 2020-11-04T09:19:42+01:00
-lastmod: 2020-11-04T09:19:42+01:00
+date: 2023-11-15T09:19:42+01:00
+lastmod: 2020-11-15T09:19:42+01:00
 draft: false
 weight: 50
 images: []
 categories: ["News"]
-tags: ["security", "performance", "SEO"]
-contributors: ["Henk Verlinde"]
+tags: ["apresentacao", "prof", "SEO"]
+contributors: ["Thalita Freire"]
 pinned: false
 homepage: false
 ---
