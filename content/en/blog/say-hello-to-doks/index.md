@@ -8,7 +8,7 @@ draft: false
 weight: 50
 images: []
 categories: ["News"]
-tags: ["apresentacao", "prof", "SEO"]
+tags: ["", "", "SEO"]
 contributors: ["Thalita Freire"]
 pinned: false
 homepage: false
