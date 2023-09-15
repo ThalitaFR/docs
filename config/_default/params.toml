@@ -61,8 +61,8 @@ singleSize = false
 imageAddClass = "img-fluid lazyload blur-up"
 
 ### Image template
-defaultImage = "default-image.png" # put in `./assets/images/`
-fillImage = "1270x740 Center" # normalize image size
+defaultImage = "Webinar-amico.png" # put in `./assets/images/`
+fillImage = "1278x1278 Center" # normalize image size
 
 # Footer
 footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"

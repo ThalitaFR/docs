@@ -13,6 +13,7 @@ contributors: ["Thalita Freire"]
 pinned: false
 homepage: false
 ---
+
 # Sobre mim
 Oi! Sou a thali e estou ministrando esse mini-curso!
 
